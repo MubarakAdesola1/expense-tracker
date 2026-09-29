@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "id": 1,
+        "amount": 400.0,
+        "category": "food",
+        "description": "ate waka lodo iya"
+    },
+    {
+        "id": 2,
+        "amount": 3221.0,
+        "category": "cloth",
+        "description": "t-shirt"
+    }
+]
